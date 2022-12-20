@@ -1,0 +1,1 @@
+{"vinceszarka.com":"m1","fashionmatch.vinceszarka.com":"m2","www.vinceszarka.com":"m1"}
